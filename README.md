@@ -1,22 +1,37 @@
 # 🏎LeMans24h-Race-Winners
 
-## ✏️Các thao tác chính bao gồm
-Dự án sử dụng dữ liệu các chiến thắng trong giải đua LeMans 24h và dùng Power BI để trực quan hóa dữ liệu, từ đó có thể phân tích và hiểu sâu hơn về sự phát triển của cuộc đua sức bền tại Le Mans.
+## ✏️Table of contents:
+[1. Project Name](#1-project-name)  
+[2. Summary](#2-summary)  
+[3. Data source](#3-data-source)  
+[4. Tools and analysis method](#4-tools-and-analysis-method)  
+[5. Implementation](#5-implementation)  
+[6. Dashboard](#6-dashboard)  
+[7. Results and Findings](#7-results-and-findings)  
+[8. Conclusion](#8-conclusion)  
+[9. Recommendations](#9-recommendations)
 
-## ✏️Thông tin dữ liệu (Dataset)
-- Year: Năm diễn ra cuộc đua Le Mans 24 giờ.
-- Drivers: Tên các tay đua đã giành chiến thắng trong cuộc đua.
-- Class: Phân loại hoặc hạng mục của xe (dựa trên dung tích động cơ, đo bằng lít).
-- Team: Tên của đội đua liên quan đến chiếc xe chiến thắng.
-- Car: Thương hiệu và mẫu xe cụ thể của chiếc xe chiến thắng.
-- Car_brand: Hãng xe của chiếc xe chiến thắng.
-- Tyre: Thương hiệu lốp xe được sử dụng bởi chiếc xe chiến thắng.
-- Laps: Số vòng đua hoàn thành bởi chiếc xe chiến thắng trong cuộc đua.
-- Km: Khoảng cách mà chiếc xe chiến thắng đã đi được, tính bằng kilômét.
-- Mi: Khoảng cách mà chiếc xe chiến thắng đã đi được, tính bằng dặm.
-- Series: Danh mục hoặc phân loại cụ thể của cuộc đua, nếu có.
-- Driver_nationality: Quốc tịch của tay đua hoặc các tay đua chiến thắng.
-- Team_nationality: Quốc tịch của đội đua chiến thắng.
-- Average_speed_kmh: Tốc độ trung bình của chiếc xe chiến thắng, tính bằng kilômét trên giờ.
-- Average_speed_mph: Tốc độ trung bình của chiếc xe chiến thắng, tính bằng dặm trên giờ.
-- Average_lap_time: Thời gian trung bình hoàn thành một vòng đua của chiếc xe chiến thắng.
+## 1. Project Name  
+### 📍Phân tích các chiến thắng giải đua LeMans 24h
+
+## 2. Summary
+Tìm hiểu về sự phát triển và thay đổi của giải đua LeMans 24h từ khi mới tổ chức đến hiện tại bằng việc phân tích dữ liệu từ các chiến thắng của các năm.
+
+## 3. Data source
+Đây là tập dữ liệu chứa kết quả của toàn bộ các chiến dịch đã chạy trong tháng 2, bao gồm các chỉ số chính về chi phí, doanh thu, lượt tiếp cận,... Nguồn dataset: https://www.kaggle.com/datasets/erykwitkowski/lemans-24h-race-winners
+
+## 4. Tools and analysis method
+- Power Bi
+  - Xây dựng các biểu đồ để trực quan hóa dữ liệu
+
+## 5. Implementation
+- Phân tích: Phân tích sự thay đổi và phát triển của các chiến thắng qua các năm
+- Trực quan hóa dữ liệu: Sử dụng các dữ liệu để xây dựng biểu đồ liên quan đến các chiều phân tích
+
+## 6. Dashboard
+
+## 7. Results and Findings 
+
+## 8. Conclusion  
+
+## 9. Recommendations
